@@ -16,7 +16,7 @@ Need Help?
 I'm here to assist you! Feel free to reach out if you have any questions or need guidance.
 
 View the live project here:
-[Live Project Link]
+https://princenr.github.io/Responsive_flex_project/
 
 Join the Journey:
 Let's make learning web development an exciting and rewarding experience. Start your project today and step into the world of coding with confidence!
